@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" site="cgates.lt">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="cgates.lt">
   <channels>
     <channel update="i" site="cgates.lt" site_id="lrt-televizija-hd" xmltv_id="LRT Televizija HD">LRT Televizija HD</channel>
     <channel update="i" site="cgates.lt" site_id="lrt-kultura-hd" xmltv_id="LRT Plius HD">LRT Plius HD</channel>
@@ -77,7 +77,7 @@
     <channel update="i" site="cgates.lt" site_id="deutsche-welle" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
     <channel update="i" site="cgates.lt" site_id="cnbc-europe" xmltv_id="CNBC Europe">CNBC Europe</channel>
     <channel update="i" site="cgates.lt" site_id="arirang-tv" xmltv_id="Arirang TV">Arirang TV</channel>
-    <channel update="i" site="cgates.lt" site_id="belarus-24" xmltv_id="Belarus 24">Belarus 24</channel>
+    <channel update="i" site="cgates.lt" site_id="belarus-24" xmltv_id="Belarus 24 HD">Belarus 24 HD</channel>
     <channel update="i" site="cgates.lt" site_id="ukraine-24" xmltv_id="Ukraine 24">Ukraine 24</channel>
     <channel update="i" site="cgates.lt" site_id="fox-hd" xmltv_id="FOX HD">FOX HD</channel>
     <channel update="i" site="cgates.lt" site_id="filmzone-hd" xmltv_id="FilmZone+ HD">FilmZone+ HD</channel>
@@ -116,6 +116,7 @@
     <channel update="i" site="cgates.lt" site_id="baby-tv" xmltv_id="Baby TV">Baby TV</channel>
     <channel update="i" site="cgates.lt" site_id="da-vinci-learning" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
     <channel update="i" site="cgates.lt" site_id="jim-jam" xmltv_id="Jim Jam">Jim Jam</channel>
+    <channel update="i" site="cgates.lt" site_id="rtr-planeta" xmltv_id="RTR Planeta">RTR Planeta</channel>
     <channel update="i" site="cgates.lt" site_id="tvc-international" xmltv_id="TVC International">TVC International</channel>
     <channel update="i" site="cgates.lt" site_id="nauka" xmltv_id="Nauka">Nauka</channel>
     <channel update="i" site="cgates.lt" site_id="moya-planeta" xmltv_id="Moya Planeta">Moya Planeta</channel>
@@ -129,6 +130,7 @@
     <channel update="i" site="cgates.lt" site_id="tv-1000-russkoje-kino" xmltv_id="TV 1000 Russkoje Kino">TV 1000 Russkoje Kino</channel>
     <channel update="i" site="cgates.lt" site_id="tv-1000-action" xmltv_id="TV 1000 Action">TV 1000 Action</channel>
     <channel update="i" site="cgates.lt" site_id="tv-1000-premium" xmltv_id="TV 1000 Premium">TV 1000 Premium</channel>
+    <channel update="i" site="cgates.lt" site_id="tv-1000-premium-hd" xmltv_id="TV 1000 Premium HD">TV 1000 Premium HD</channel>
     <channel update="i" site="cgates.lt" site_id="viasat-sport-baltic" xmltv_id="TVPlay Sports">TVPlay Sports</channel>
     <channel update="i" site="cgates.lt" site_id="viasat-sport-baltic-hd" xmltv_id="TVPlay Sports HD">TVPlay Sports HD</channel>
     <channel update="i" site="cgates.lt" site_id="tvplay-sports-plus-hd" xmltv_id="TVPlay Sports+ HD">TVPlay Sports+ HD</channel>
@@ -143,5 +145,15 @@
     <channel update="i" site="cgates.lt" site_id="ntv-stil" xmltv_id="NTV Stil">NTV Stil</channel>
     <channel update="i" site="cgates.lt" site_id="ntv-serial" xmltv_id="NTV Serial">NTV Serial</channel>
     <channel update="i" site="cgates.lt" site_id="ntv-pravo" xmltv_id="NTV Pravo">NTV Pravo</channel>
+    <channel update="i" site="cgates.lt" site_id="kuhnya-tv-hd" xmltv_id="Kuhnya TV HD">Kuhnya TV HD</channel>
+    <channel update="i" site="cgates.lt" site_id="boks-tv-plius" xmltv_id="Boks TV Plius">Boks TV Plius</channel>
+    <channel update="i" site="cgates.lt" site_id="m-1-global-hd" xmltv_id="M-1 Global HD">M-1 Global HD</channel>
+    <channel update="i" site="cgates.lt" site_id="kvn-tv" xmltv_id="KVN TV">KVN TV</channel>
+    <channel update="i" site="cgates.lt" site_id="rodnoe-kino" xmltv_id="Rodnoe Kino">Rodnoe Kino</channel>
+    <channel update="i" site="cgates.lt" site_id="kinomiks-hd" xmltv_id="Kinomiks HD">Kinomiks HD</channel>
+    <channel update="i" site="cgates.lt" site_id="nashe-novoe-kino-hd" xmltv_id="Nashe Novoe Kino HD">Nashe Novoe Kino HD</channel>
+    <channel update="i" site="cgates.lt" site_id="kinokomediya-hd" xmltv_id="Kinokomediya HD">Kinokomediya HD</channel>
+    <channel update="i" site="cgates.lt" site_id="kinoseriya-hd" xmltv_id="Kinoseriya HD">Kinoseriya HD</channel>
+    <channel update="i" site="cgates.lt" site_id="indijskoe-kino" xmltv_id="Indijskoe Kino">Indijskoe Kino</channel>
   </channels>
 </site>
